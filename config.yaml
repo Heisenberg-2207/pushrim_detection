@@ -1,0 +1,9 @@
+
+path: 'D:\heisen\IITM studies\3rd year\sem 6\ID4900\data__\data' # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+
+# Classes
+names:
+  0: pushrim
+  1: castor
